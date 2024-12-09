@@ -42,7 +42,7 @@ async def helper_private(
         keyboard = help_pannel(_)
         
         await update.reply_video(
-            video="https://graph.org/file/84d30d4fd04570c0e0256.mp4",
+            video="https://graph.org/file/c3959c8aee181b1be6853-0f1226a38934441a9f.jpg",
             caption=_["help_1"].format(SUPPORT_CHAT), reply_markup=keyboard)
 
 
